@@ -1,0 +1,5 @@
+101 Keyboard 12 750.00
+102 Mouse 20 350.00
+103 Monitor 5 6500.00
+104 Headphone 8 1200.00
+105 Webcam 6 1800.00
